@@ -2,7 +2,8 @@ pandas
 numpy
 flask
 streamlit
-sklearn
+scikit-learn
 seaborn
 gunicorn
+
 
